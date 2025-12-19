@@ -1,0 +1,11 @@
+"friend name"~loaction~pincode
+m.prasanna~vizag~530001
+g.jhansi~vijayawada~520001
+m.supraja~jujjuvaram~521157
+s.srilakshmi~hyedrabad~500001
+c.sandhya~machilipatnam~521157
+g.nandhini~nidumolu~521156
+b.anusha~elakurru~521156
+p.jhansi~movva~521135
+g.pavan~nidumolu~521156
+s.phani~nidumolu~521156
