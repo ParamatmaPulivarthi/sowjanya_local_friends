@@ -1,0 +1,2 @@
+"friend name"~ location~pincode
+m.prasanna
